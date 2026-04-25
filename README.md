@@ -52,7 +52,7 @@ To detect whether a patient is COVID-19 positive using X-ray images and deep lea
 
 ### 📊 Model Performance
 
-![Accuracy](images/accuracy.png)
+accuracy.png
 
 ---
 
