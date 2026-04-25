@@ -115,9 +115,3 @@ This project is licensed under the MIT License.
 **Aishwary Ghadle**
 
 
----
-
-## 👤 Author
-
-**Aishwary Ghadle**
-
