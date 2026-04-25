@@ -2,13 +2,13 @@
 
 ## 📌 Overview
 
-This project implements a deep learning model to detect COVID-19 infection from chest X-ray images. The system classifies images into categories such as COVID-19, Normal, and Viral Pneumonia.
+This project implements a deep learning model to detect COVID-19 infection from chest X-ray images.
 
 ---
 
 ## ❗ Problem Statement
 
-To build an automated system that can accurately detect COVID-19 from chest X-ray images using deep learning techniques.
+To detect whether a patient is COVID-19 positive using X-ray images and deep learning.
 
 ---
 
@@ -27,28 +27,21 @@ To build an automated system that can accurately detect COVID-19 from chest X-ra
 
 ## ⚙️ Methodology
 
-### 1. Data Preprocessing
+### Data Preprocessing
 
 * Image resizing and normalization
 * Label encoding
 * Train-test split
 
-### 2. Model
+### Model
 
 * Convolutional Neural Network (CNN)
 
-**Layers include:**
-
-* Convolution layers
-* MaxPooling
-* Dense layers
-* Activation functions (ReLU, Softmax)
-
-### 3. Training
+### Training
 
 * Loss Function: Categorical Crossentropy
 * Optimizer: Adam
-* Evaluation metrics: Accuracy
+* Metric: Accuracy
 
 ---
 
@@ -56,11 +49,10 @@ To build an automated system that can accurately detect COVID-19 from chest X-ra
 
 * Model Accuracy: **89%**
 * Achieved on validation dataset
-* The model shows good performance in distinguishing COVID-19 cases
 
 ### 📊 Model Performance
 
-[Accuracy](images/accuracy.png)
+![Accuracy](images/accuracy.png)
 
 ---
 
@@ -83,10 +75,10 @@ covid19_detection.ipynb
 
 ## 📁 Project Structure
 
-```
+```bash
 covid19-xray-detection/
 │
-├── COVID-19 detection.ipynb
+├── covid19_detection.ipynb
 ├── report.docx
 ├── README.md
 ├── requirements.txt
@@ -106,7 +98,7 @@ covid19-xray-detection/
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+MIT License
 
 ---
 
