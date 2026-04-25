@@ -76,7 +76,7 @@ jupyter notebook
 Open:
 
 ```bash
-COVID-19 detection.ipynb
+covid19_detection.ipynb
 ```
 
 ---
