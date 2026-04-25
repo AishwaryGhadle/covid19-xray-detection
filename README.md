@@ -4,6 +4,12 @@
 
 This project implements a deep learning model to detect COVID-19 infection from chest X-ray images.
 
+## 🔧 Technologies Used
+- Python  
+- TensorFlow / Keras  
+- OpenCV  
+- NumPy / Pandas  
+- Matplotlib  
 ---
 
 ## ❗ Problem Statement
@@ -46,9 +52,12 @@ To detect whether a patient is COVID-19 positive using X-ray images and deep lea
 ---
 
 ## 📈 Results
+- Model Accuracy: **89%**  
+- Achieved on validation dataset  
+- The model shows good performance in distinguishing COVID-19 cases  
 
-* Model Accuracy: **89%**
-* Achieved on validation dataset
+**Real-world impact:**  
+Useful for assisting early detection of COVID-19 using medical imaging.
 
 ### 📊 Model Performance
 
