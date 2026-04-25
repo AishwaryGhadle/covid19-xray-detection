@@ -60,7 +60,7 @@ To build an automated system that can accurately detect COVID-19 from chest X-ra
 
 ### 📊 Model Performance
 
-![Accuracy](images/accuracy.png)
+[Accuracy](images/accuracy.png)
 
 ---
 
